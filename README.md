@@ -1,2 +1,2 @@
-# apti_codes
-Common coding questions in C and python
+# Coding 101
+Compilation of some of the first pieces of code I practiced during my university days
